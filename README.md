@@ -93,7 +93,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+https://cloud.githubusercontent.com/assets/6670942/2938660/d4eb2f1a-d919-11e3-9a1f-a2645c3c29a3.png 
 
 
 ### Plot 2
